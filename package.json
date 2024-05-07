@@ -1,0 +1,14 @@
+{
+  "name": "yoga-website",
+  "version": "1.0.0",
+  "description": "This is  yoga web-site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Subham shaw",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
